@@ -17,3 +17,24 @@
 
 [휴림 네트웍스 바로가기](http://www.hyulimnetworks.com)
 
+===============================================================
+
+## 테트라 소개
+
+### TETRA-DS V
+#### 다양한 환경 및 고객 Needs를 반영할 수 있는 '맞춤형 AMR'
+(Autonomous Mobile Robot, 자율주행로봇)
+
+TETRA-DSV는 다양한 현장 환경과 고객 Needs를 반영할 수 있는 '맞춤형 AMR'(Autonomous Mobile Robot, 자율주행로봇)입니다. 
+
+﻿지난 10여년 간의 지속적 연구개발을 통해 완성한 AMR로, 고도화된 자율주행 기술 탑재 및 원격관제 서비스를 제공합니다.
+
+[!테트라 사진](http://www.hyulimrobot.com/upload/consult/1651657961493_43.jpg)
+
+TETRA-DSV는 다양한 Application으로 발전 가능한 확정성을 위해 범용성 로봇 운영 체제인 ROS기반으로 개발되었습니다. 
+
+Payload는 120kg까지 적재할 수 있으며, 1회 충전으로 8시간 운영이 가능하여 물류창고, 제조공장 및 일반 실내공간에서도 그 활용성을 인정받고 있습니다. 
+
+특히, PC 또는 모바일 기기를 통해 사용자가 손쉽게 통제관제 및 운영할 수 있습니다
+
+[테트라 매뉴얼 다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/TETRA-DSV_M_Operation_Manual.pdf)
