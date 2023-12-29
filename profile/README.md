@@ -29,7 +29,7 @@ TETRA-DSV는 다양한 현장 환경과 고객 Needs를 반영할 수 있는 '�
 
 ﻿지난 10여년 간의 지속적 연구개발을 통해 완성한 AMR로, 고도화된 자율주행 기술 탑재 및 원격관제 서비스를 제공합니다.
 
-[!테트라 사진](http://www.hyulimrobot.com/upload/consult/1651657961493_43.jpg)
+![테트라 사진](http://www.hyulimrobot.com/upload/consult/1651657961493_43.jpg)
 
 TETRA-DSV는 다양한 Application으로 발전 가능한 확정성을 위해 범용성 로봇 운영 체제인 ROS기반으로 개발되었습니다. 
 
