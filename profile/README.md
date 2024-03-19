@@ -44,4 +44,3 @@ Payload는 120kg까지 적재할 수 있으며, 1회 충전으로 8시간 운영
 - [테트라 S 매뉴얼 다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/TETRA-DSV_S_Operation_Manual_v231019.pdf)
 - [테트라 APK 다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/tetra_single_controller.apk)
 
-- [오페라 APK 다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/opera.apk)
