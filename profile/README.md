@@ -46,7 +46,7 @@ Payload는 120kg까지 적재할 수 있으며, 1회 충전으로 8시간 운영
   
 <br>
 
-- [테트라 싱글관제 다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/TETRA-DSV_Controller_Manual_v240402.pdf)
+- [테트라 싱글관제 매뉴얼 다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/TETRA-DSV_Controller_Manual_v240403.pdf)
   
 <br>
 
