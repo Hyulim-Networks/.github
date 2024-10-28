@@ -41,16 +41,16 @@ Payload는 120kg까지 적재할 수 있으며, 1회 충전으로 8시간 운영
 특히, PC 또는 모바일 기기를 통해 사용자가 손쉽게 통제관제 및 운영할 수 있습니다. 
 (테트라는 [우분투 18.04](https://releases.ubuntu.com/18.04/)를 이용합니다.)
 
-- [테트라 M 매뉴얼 다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/TETRA-DSV_M_Operation_Manual.pdf)
-- [테트라 S 매뉴얼 다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/TETRA-DSV_S_Operation_Manual_v231019.pdf)
+- [테트라 M 매뉴얼 다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/docs/all/TETRA-DSV_M_Operation_Manual.pdf)
+- [테트라 S 매뉴얼 다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/docs/all/TETRA-DSV_S_Operation_Manual_v231019.pdf)
   
 <br>
 
-- [테트라 싱글관제 매뉴얼 다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/TETRA-DSV_Controller_Manual_v240408.pdf)
+- [테트라 싱글관제 매뉴얼 다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/docs/app/TETRA-DSV_Controller_Manual_v240408.pdf)
   
 <br>
 
-- [테트라 APK 다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/tetra_single_controller.apk)
+- [테트라 APK 다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/app/tetra_single_controller.apk)
   
 <br>
 
