@@ -55,7 +55,7 @@
 ### 테트라 Back-End 매뉴얼
 - 테트라 REST API 매뉴얼 [다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/docs/restapi/tetra_single_api_20241024.pdf) [미리보기](./docs/restapi/tetra_single_api_20241024.pdf)
 - 테트라 REST API 예시 [바로가기](./docs/restapi/ex_20241029.md)
-- 테트라 Web Socket 예시 [바로가기](./docs/websocket/TETRA-websocket_20241029.md)
+- 테트라 Web Socket 예시 [바로가기](./docs/websocket/websocket_20241029.md)
 <br>
 
 ### 테트라 App 매뉴얼
