@@ -21,7 +21,7 @@
 
 - 휴림 네트웍스 [바로가기](http://www.hyulimnetworks.com)
 - HerkuleX, Hovis [바로가기](http://hovis.co.kr/guide/)
-- 휴림네트웍스 & AMR 소개자료 [다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/docs/intro/휴림네트웍스 & AMR 소개자료 241202.pdf) - [미리보기](./docs/intro/휴림네트웍스 & AMR 소개자료 241202.pdf)
+- 휴림네트웍스 & AMR 소개자료 [다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/docs/intro/휴림네트웍스&AMR소개자료241202.pdf) - [미리보기](./docs/intro/휴림네트웍스&AMR소개자료241202.pdf)
 
 <br/>
 <hr/>
