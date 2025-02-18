@@ -21,7 +21,7 @@
 
 - 휴림 네트웍스 [바로가기](http://www.hyulimnetworks.com)
 - HerkuleX, Hovis [바로가기](http://hovis.co.kr/guide/)
-- 휴림네트웍스 & AMR 소개자료 [다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/docs/intro/휴림네트웍스&AMR소개자료241202.pdf) - [미리보기](./docs/intro/휴림네트웍스&AMR소개자료241202.pdf)
+- 휴림네트웍스 & AMR 소개자료 [다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/docs/intro/휴림네트웍스&AMR소개자료250210.pdf) - [미리보기](./docs/intro/휴림네트웍스&AMR소개자료250210.pdf)
 
 <br/>
 <hr/>
@@ -64,7 +64,7 @@
 ### 테트라 Back-End 매뉴얼 💻
 - 테트라 REST API 문서: [다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/docs/restapi/tetra_single_api_20241024.pdf) - [미리보기](./docs/restapi/tetra_single_api_20241024.pdf)
 - 테트라 REST API 예시: [바로가기](./docs/restapi/ex_20241029.md)
-- 테트라 Web Socket 매뉴얼: [바로가기](./docs/websocket/websocket_20241029.md)
+- 테트라 Web Socket 매뉴얼: [바로가기](./docs/websocket/websocket_20250214.md)
 <br>
 
 ### 테트라 App 매뉴얼 📱
